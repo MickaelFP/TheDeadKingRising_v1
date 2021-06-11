@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61b397aa-a8e7-41e6-9c9f-2e5a72c406f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta9.tmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjetSemestriel2_Platformer_TheDeadKing-sRising.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/Paul Pitman - Moonlight Sonata, Op. 27 No. 2 - I. Adagio sostenuto.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/SF-Passagsecret.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/SF-pas_gravat1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/SF-teleportation.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/coup_de_feu_fort.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/fronde.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/haharir.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/laff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/laugh.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/madgiggle.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/os_sound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/pas_feuilles1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/sf_pas_marche_feuilles_01.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/sf_sorciere_15.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/vent2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/versionsLongue/Ambiance_halloween_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/versionsLongue/Piano_Sonata_no_14.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Sound/versionsLongue/roche_pousservl.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/corbeauAnimation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/pasUtilisés/playerM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/pasUtilisés/playerM2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/pasUtilisés/torcheAnimate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/pasUtilisés/torcheAnimate2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/pasUtilisés/zombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/pasUtilisés/zombie1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/playerRemastered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/playerRemastered2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/playerRemastered3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/power.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/torcheAnimate3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/zombie2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Spritesheet/zombie_remastered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/aurore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/aurore2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/cache_bas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/cache_bas_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/cache_haut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/cache_haut_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/chateauLoin_x1920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/chateauLoin_x896.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/chateauLoin_x896_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/colinesForet_x896.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/colines_x896.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/grille_x896.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/grille_x896_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/night.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/ombresTombes_x896_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/ombres_plan_surface.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/ombres_plan_surface_l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/ombres_plan_surface_l_flou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/ombres_plan_surface_xl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/ombres_plan_surface_xl_flou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/premier_plan_tombes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/second_plan_grille.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/sky-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/sky2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/sky_plan_aurore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/sky_plan_nuitEtoileCarre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/PlatformerLogoRemastered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/TutoBox6_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/collectibleOs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/infosControls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/infos_controls2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/pCBouton_100pct2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/pCBouton_100pct3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/pCBouton_80pct.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/platform.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/roche_devant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/roche_devant2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/sol-terre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/solFragile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/solFragilePierre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/solFragilePierre1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/elements/vase1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/entities/chauve-souris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/entities/checkPoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/entities/corbeauDuPauvre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/entities/spectre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/particles/particles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/particles/particles2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/particles/particlesEtoffe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/particles/particlesM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/particles/particlesM2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sourceIdées/50086164-ensemble-de-silhouettes-noires-des-différents-oiseaux-vector-illustration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sourceIdées/vecteur-noir-de-symbole-de-vol-d-oiseau-11693269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingAlpha5-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingAlpha5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta7mx..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta7mx..tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta7mx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta7mx.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/TheDeadKingRisingBeta8.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha2.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha3.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha4_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha5.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha7.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9_2.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingAlpha9_3.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta1.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta2.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta3..tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta3.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta4.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta5.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/TheDeadKingRisingBeta6.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/pasUtilisé/tableauTiledTilesetCimetiere3.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/solPierre.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/tableauTiledTilesetCimetiere.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/tableauTiledTilesetCimetiere.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/tableauTiledTilesetCimetiere2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tilemaps/tableauTiledTilesetCimetiere2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ui/pv1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/ElementProjectils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/ElementProjectils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/ElementRocheQuiRoule.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/ElementRocheQuiRoule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/ElementRocheQuiRoule2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/ElementRocheQuiRoule2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/MonsterFly.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/MonsterFly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/MonsterSkeleton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/MonsterSkeleton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/MonsterVase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/MonsterVase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/MonsterZombie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/MonsterZombie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/ui/GameKeyboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/ui/GameKeyboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/Niveau1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/Niveau1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/structure/Tableau.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/structure/Tableau.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tKd5GjKd2iHPqdZaznbDTGczla" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PourItchio/TheDeadKingRising" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ProjetSemestriel2_Platformer_TheDeadKing-sRising\src\scenes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61b397aa-a8e7-41e6-9c9f-2e5a72c406f7" name="Default Changelist" comment="" />
+      <created>1622521531450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622521531450</updated>
+      <workItem from="1622521535152" duration="9859000" />
+      <workItem from="1622542453139" duration="1425000" />
+      <workItem from="1622569729755" duration="15830000" />
+      <workItem from="1622660286349" duration="18337000" />
+      <workItem from="1622698077809" duration="41300000" />
+      <workItem from="1622762231947" duration="260000" />
+      <workItem from="1622781807463" duration="3043000" />
+      <workItem from="1622785108382" duration="162000" />
+      <workItem from="1622825615701" duration="5411000" />
+      <workItem from="1622831098684" duration="95000" />
+      <workItem from="1622894493323" duration="14540000" />
+      <workItem from="1622961302908" duration="20208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
